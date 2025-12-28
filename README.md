@@ -217,22 +217,3 @@ To extend functionality:
 3. **Inference Rules**: Adjust `pulse/inference.py` for different module detection strategies
 4. **Summarization**: Modify `pulse/summarizer.py` for different description generation
 
-## 📄 License
-
-This project is provided as-is for demonstration and evaluation purposes.
-
-## 🙏 Acknowledgments
-
-Built with:
-- [Requests](https://requests.readthedocs.io/) for HTTP requests
-- [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/) for HTML parsing
-- [Streamlit](https://streamlit.io/) for the web interface
-
-## 📞 Support
-
-For issues, questions, or contributions, please refer to the project repository.
-
----
-
-**Pulse – Module Extraction AI Agent** | Extract structured knowledge from documentation
-
